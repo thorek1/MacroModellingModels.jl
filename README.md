@@ -1,4 +1,4 @@
-# MacroModellingModels
+# MacroModellingModels.jl
 A collection of models implemented with MacroModelling.jl
 
 - [Aguiar and Gopinath (2007)](https://www.journals.uchicago.edu/doi/10.1086/511283) `Aguiar_Gopinath_2007.jl`
